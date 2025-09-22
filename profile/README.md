@@ -1,8 +1,6 @@
 ![PIMPAM Logo](../assets/PIMPAM-white%20logo.png)
 
-The PIMPAM Digital Decision Support Technology Stack is part of the **pim-pam.net** Public Infrastructure Investment and Asset Governance (PPIAG) engagement resources. These tools demonstrate evidence-based decision making using big data and AI to support better real-world outcomes.
-
-## Technology Stack Overview
+The PIMPAM Digital Decision Support Technology Stack is part of the [**pim-pam.net**](https://pim-pam.net/) Public Infrastructure Investment and Asset Governance (PPIAG) engagement resources. These tools demonstrate evidence-based decision making using big data and AI to support better real-world outcomes.
 
 Our platform consists of three core modules:
 
@@ -20,4 +18,4 @@ The application of generative AI to interactively distill insights key insights 
 
 ---
 
-Browse our repositories to explore the tools and contribute to better decision-making infrastructure.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
